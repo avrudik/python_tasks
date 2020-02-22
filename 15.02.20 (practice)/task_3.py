@@ -1,9 +1,9 @@
 import json
 
-open('list_of_people.txt', 'w').write('There are people older than 30:\n')
+open('list_of_people.json', 'w').write('There are people older than 30:\n')
 
 number = 1
-with open('datafile.txt', 'r') as f:
+with open('datafile.json', 'r') as f:
 	file = json.load(f)
 	for dictionary in file:
 		if dictionary['age'] > 30:

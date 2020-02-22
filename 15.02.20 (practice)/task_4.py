@@ -1,32 +1,20 @@
 import json
 
-strawberry = []
-banana = []
-apple = []
-
-with open('datafile.txt', 'r') as f:
+with open('datafile.json', 'r', encoding='utf-8') as f:
     file = json.load(f)
-    for dictionaries in file:
-        if dictionaries['favoriteFruit'] == 'strawberry':
-            strawberry.append(dictionaries['name'])
-        elif dictionaries['favoriteFruit'] == 'banana':
-            banana.append(dictionaries['name'])
-        elif dictionaries['favoriteFruit'] == 'apple':
-            apple.append(dictionaries['name'])
+    fruit = {}
 
+    for dicts in file:
+        if dicts['favoriteFruit'] not in fruit:
+            fruit[dicts['favoriteFruit']] = []
 
-print('People, who like strawberries:')
-for i in range(len(strawberry)):
-    print(str(i+1) + ')', strawberry[i])
+    for dicts in file:
+        if dicts['favoriteFruit'] in fruit:
+            kind_of_fruit = dicts['favoriteFruit']
+            fruit[kind_of_fruit].append(dicts['name'])
 
-print('\n')
-
-print('People, who like apples:')
-for i in range(len(apple)):
-    print(str(i+1) + ')', apple[i])
-
-print('\n')
-
-print('People, who like bananas:')
-for i in range(len(banana)):
-    print(str(i+1) + ')', banana[i])
+    for fruits in fruit:
+        print(f'People, who like {fruits}:')
+        for people in fruit[fruits]:
+            print(people)
+        print('\n')
