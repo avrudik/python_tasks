@@ -15,7 +15,7 @@ for row in data:
         if row[0] == '1' and row[1] == 'female':
             survivors.append(row)
 
-for rows, lists in zip(sheet.iter_rows(max_row=len(survivors), max_col=len(survivors[0])+2), survivors):
+for rows, lists in zip(sheet.iter_rows(max_row=len(survivors), max_col=len(survivors[0])), survivors):
     for cell, data in zip(rows, lists):
         cell.value = data
 book.save('female_survivors.xlsx')
