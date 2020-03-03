@@ -7,9 +7,9 @@ def find_files(directory_path):
     json_files = []
     xl_files = []
     for filename in os.listdir(directory_path):
-        if filename.endswith('.xlsx') and '~' not in filename:
+        if filename.endswith('.xlsx') and filename.startswith('File') and '~' not in filename:
             xl_files.append(filename)
-        elif filename.endswith('.json') and '~' not in filename:
+        elif filename.endswith('.json') and filename.startswith('File') and '~' not in filename:
             json_files.append(filename)
     return [json_files, xl_files]
 

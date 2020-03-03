@@ -6,7 +6,7 @@ import datetime
 
 
 def to_date(string):
-    date = [int(i) for i in string.split('.')]
+    date = [int(item) for item in string.split('.')]
     return datetime.date(date[2], date[1], date[0])
 
 
@@ -22,6 +22,8 @@ for filename in list_of_files:
                 list_of_people.append(i['name'])
         else:
             if type(i) == list:
-                if i[2] != 'input_date' and to_date(i[3]) > date_to_compare:
+                if i[3] != 'input_date' and to_date(i[3]) > date_to_compare:
                     list_of_people.append(i[0])
-print(list_of_people)
+
+with open('Persons_wih_date_greater_than_in_condition.json', 'w', encoding="utf-8") as f:
+    json.dump(list_of_people, f, ensure_ascii=False, indent=4)
