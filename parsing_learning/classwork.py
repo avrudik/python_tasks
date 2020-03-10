@@ -29,4 +29,3 @@ if __name__ == '__main__':
     driver.close()
 
 # //*[@id="headerFilm"]/h1/span
-# https://github.com/mozilla/geckodriver/releases
