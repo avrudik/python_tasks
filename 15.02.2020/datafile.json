@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Rosales Mcintosh",
+    "gender": "male",
+    "age": 22,
+    "eyeColor": "blue",
+    "company": "PROFLEX",
+    "email": "rosalesmcintosh@proflex.com",
+    "phone": "+1 (826) 500-2112",
+    "address": "258 Duryea Court, Dahlen, Wisconsin, 1650",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Brock Mosley"
+      },
+      {
+        "id": 1,
+        "name": "Victoria Mcbride"
+      },
+      {
+        "id": 2,
+        "name": "Jo Curtis"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Brennan Fischer",
+    "gender": "male",
+    "age": 37,
+    "eyeColor": "blue",
+    "company": "FISHLAND",
+    "email": "brennanfischer@fishland.com",
+    "phone": "+1 (990) 598-3417",
+    "address": "509 Neptune Court, Carbonville, New York, 4942",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Velez Schneider"
+      },
+      {
+        "id": 1,
+        "name": "Wolfe Valentine"
+      },
+      {
+        "id": 2,
+        "name": "Jan Jordan"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Sonja Church",
+    "gender": "female",
+    "age": 21,
+    "eyeColor": "blue",
+    "company": "ISOTERNIA",
+    "email": "sonjachurch@isoternia.com",
+    "phone": "+1 (862) 447-3627",
+    "address": "802 Tilden Avenue, Cuylerville, Kentucky, 5870",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Gamble Horton"
+      },
+      {
+        "id": 1,
+        "name": "Craig Dunn"
+      },
+      {
+        "id": 2,
+        "name": "Hickman Dyer"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Katharine Dean",
+    "gender": "female",
+    "age": 30,
+    "eyeColor": "blue",
+    "company": "VALREDA",
+    "email": "katharinedean@valreda.com",
+    "phone": "+1 (909) 571-2628",
+    "address": "848 Liberty Avenue, Gordon, Puerto Rico, 9841",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Guy Hobbs"
+      },
+      {
+        "id": 1,
+        "name": "Scott Ferrell"
+      },
+      {
+        "id": 2,
+        "name": "Riddle Shannon"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Decker Massey",
+    "gender": "male",
+    "age": 24,
+    "eyeColor": "blue",
+    "company": "DAIDO",
+    "email": "deckermassey@daido.com",
+    "phone": "+1 (921) 523-2883",
+    "address": "111 Woods Place, Tilleda, Alaska, 3494",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ellison Bolton"
+      },
+      {
+        "id": 1,
+        "name": "Carpenter Hewitt"
+      },
+      {
+        "id": 2,
+        "name": "Marquez Donaldson"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Candace Blankenship",
+    "gender": "female",
+    "age": 22,
+    "eyeColor": "green",
+    "company": "QUANTASIS",
+    "email": "candaceblankenship@quantasis.com",
+    "phone": "+1 (843) 596-3567",
+    "address": "177 Division Place, Kent, American Samoa, 6462",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Moses Maxwell"
+      },
+      {
+        "id": 1,
+        "name": "Chandler Morse"
+      },
+      {
+        "id": 2,
+        "name": "Bernard Small"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Virgie William",
+    "gender": "female",
+    "age": 39,
+    "eyeColor": "green",
+    "company": "NETUR",
+    "email": "virgiewilliam@netur.com",
+    "phone": "+1 (924) 592-3568",
+    "address": "558 Chester Street, Abiquiu, Tennessee, 1456",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cassie Wilkins"
+      },
+      {
+        "id": 1,
+        "name": "Mcintosh Mayer"
+      },
+      {
+        "id": 2,
+        "name": "Nannie Mcgee"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Penny Owens",
+    "gender": "female",
+    "age": 24,
+    "eyeColor": "blue",
+    "company": "SARASONIC",
+    "email": "pennyowens@sarasonic.com",
+    "phone": "+1 (858) 454-3675",
+    "address": "436 Jefferson Avenue, Frystown, Maryland, 4322",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elinor Woodard"
+      },
+      {
+        "id": 1,
+        "name": "Powers Kirkland"
+      },
+      {
+        "id": 2,
+        "name": "Holmes Martinez"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Yates Rivera",
+    "gender": "male",
+    "age": 35,
+    "eyeColor": "blue",
+    "company": "OPTICOM",
+    "email": "yatesrivera@opticom.com",
+    "phone": "+1 (817) 589-3799",
+    "address": "263 Senator Street, Brantleyville, Minnesota, 8075",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Macdonald Mcknight"
+      },
+      {
+        "id": 1,
+        "name": "Ruiz Foreman"
+      },
+      {
+        "id": 2,
+        "name": "Flossie Bentley"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Shelton Cherry",
+    "gender": "male",
+    "age": 37,
+    "eyeColor": "brown",
+    "company": "YURTURE",
+    "email": "sheltoncherry@yurture.com",
+    "phone": "+1 (861) 564-3157",
+    "address": "970 Fleet Place, Defiance, Maine, 1744",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Moody Collins"
+      },
+      {
+        "id": 1,
+        "name": "Amber Wooten"
+      },
+      {
+        "id": 2,
+        "name": "Anita Olsen"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Janette Ramirez",
+    "gender": "female",
+    "age": 29,
+    "eyeColor": "green",
+    "company": "PLEXIA",
+    "email": "janetteramirez@plexia.com",
+    "phone": "+1 (814) 404-3368",
+    "address": "202 Noel Avenue, Gadsden, Texas, 5962",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jody Henderson"
+      },
+      {
+        "id": 1,
+        "name": "Holland Holmes"
+      },
+      {
+        "id": 2,
+        "name": "Sophia Velasquez"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Bentley Bartlett",
+    "gender": "male",
+    "age": 40,
+    "eyeColor": "blue",
+    "company": "STUCCO",
+    "email": "bentleybartlett@stucco.com",
+    "phone": "+1 (892) 471-2046",
+    "address": "851 Coventry Road, Brogan, Utah, 1597",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Heather Kaufman"
+      },
+      {
+        "id": 1,
+        "name": "Vincent Mann"
+      },
+      {
+        "id": 2,
+        "name": "Dorothy Page"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Jillian Knight",
+    "gender": "female",
+    "age": 34,
+    "eyeColor": "green",
+    "company": "INTRADISK",
+    "email": "jillianknight@intradisk.com",
+    "phone": "+1 (969) 514-3221",
+    "address": "648 Miami Court, Gloucester, Arkansas, 388",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Odom Cameron"
+      },
+      {
+        "id": 1,
+        "name": "Cunningham Snider"
+      },
+      {
+        "id": 2,
+        "name": "Hester Deleon"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Marguerite Brady",
+    "gender": "female",
+    "age": 39,
+    "eyeColor": "brown",
+    "company": "EURON",
+    "email": "margueritebrady@euron.com",
+    "phone": "+1 (868) 595-2901",
+    "address": "524 Hawthorne Street, Remington, Rhode Island, 1822",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bowen Hebert"
+      },
+      {
+        "id": 1,
+        "name": "West Lowe"
+      },
+      {
+        "id": 2,
+        "name": "Cindy Watkins"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Hebert Sutton",
+    "gender": "male",
+    "age": 25,
+    "eyeColor": "blue",
+    "company": "SPRINGBEE",
+    "email": "hebertsutton@springbee.com",
+    "phone": "+1 (948) 543-2705",
+    "address": "143 Tennis Court, Dyckesville, Idaho, 5431",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hester Hodges"
+      },
+      {
+        "id": 1,
+        "name": "Tia Shelton"
+      },
+      {
+        "id": 2,
+        "name": "Claudette Beard"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Allie Blair",
+    "gender": "female",
+    "age": 37,
+    "eyeColor": "blue",
+    "company": "FIREWAX",
+    "email": "allieblair@firewax.com",
+    "phone": "+1 (947) 468-3316",
+    "address": "890 Devoe Street, Zarephath, Montana, 2879",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Pearl Todd"
+      },
+      {
+        "id": 1,
+        "name": "Lou Winters"
+      },
+      {
+        "id": 2,
+        "name": "Janna Brown"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Margaret Gamble",
+    "gender": "female",
+    "age": 38,
+    "eyeColor": "brown",
+    "company": "KIGGLE",
+    "email": "margaretgamble@kiggle.com",
+    "phone": "+1 (909) 500-3074",
+    "address": "601 Friel Place, Macdona, Massachusetts, 5102",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Porter Levine"
+      },
+      {
+        "id": 1,
+        "name": "Harriet Little"
+      },
+      {
+        "id": 2,
+        "name": "Dena Nunez"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Norma Charles",
+    "gender": "female",
+    "age": 28,
+    "eyeColor": "green",
+    "company": "SAVVY",
+    "email": "normacharles@savvy.com",
+    "phone": "+1 (804) 462-3371",
+    "address": "896 Boerum Street, Blanco, Northern Mariana Islands, 2458",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sheree Lindsey"
+      },
+      {
+        "id": 1,
+        "name": "Ball Greene"
+      },
+      {
+        "id": 2,
+        "name": "Duke Wiggins"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Janelle Yates",
+    "gender": "female",
+    "age": 27,
+    "eyeColor": "brown",
+    "company": "MIXERS",
+    "email": "janelleyates@mixers.com",
+    "phone": "+1 (890) 523-3113",
+    "address": "233 Albemarle Road, Charco, Washington, 1186",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Johanna Pratt"
+      },
+      {
+        "id": 1,
+        "name": "Reilly Burt"
+      },
+      {
+        "id": 2,
+        "name": "Mack Baldwin"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Nanette Edwards",
+    "gender": "female",
+    "age": 32,
+    "eyeColor": "blue",
+    "company": "EMTRAC",
+    "email": "nanetteedwards@emtrac.com",
+    "phone": "+1 (992) 401-2622",
+    "address": "316 Prospect Place, Magnolia, Ohio, 5734",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aguilar Velazquez"
+      },
+      {
+        "id": 1,
+        "name": "Morton Fisher"
+      },
+      {
+        "id": 2,
+        "name": "Emerson Holden"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Puckett Bullock",
+    "gender": "male",
+    "age": 37,
+    "eyeColor": "green",
+    "company": "ROCKLOGIC",
+    "email": "puckettbullock@rocklogic.com",
+    "phone": "+1 (967) 533-3427",
+    "address": "608 Seton Place, Bancroft, Georgia, 5362",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lara Contreras"
+      },
+      {
+        "id": 1,
+        "name": "Jenny Mcneil"
+      },
+      {
+        "id": 2,
+        "name": "Avis House"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Mattie Serrano",
+    "gender": "female",
+    "age": 36,
+    "eyeColor": "blue",
+    "company": "CORPULSE",
+    "email": "mattieserrano@corpulse.com",
+    "phone": "+1 (810) 561-2838",
+    "address": "600 Engert Avenue, Fredericktown, Marshall Islands, 2781",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kelly Ellis"
+      },
+      {
+        "id": 1,
+        "name": "Dudley Terry"
+      },
+      {
+        "id": 2,
+        "name": "Booker Miles"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Katrina Nelson",
+    "gender": "female",
+    "age": 28,
+    "eyeColor": "green",
+    "company": "COMTOUR",
+    "email": "katrinanelson@comtour.com",
+    "phone": "+1 (962) 482-2303",
+    "address": "828 Roosevelt Court, Thomasville, Mississippi, 7401",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sharp Burch"
+      },
+      {
+        "id": 1,
+        "name": "Charlene Stuart"
+      },
+      {
+        "id": 2,
+        "name": "Arline Austin"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Eva Bowen",
+    "gender": "female",
+    "age": 29,
+    "eyeColor": "blue",
+    "company": "ZENTURY",
+    "email": "evabowen@zentury.com",
+    "phone": "+1 (903) 440-2221",
+    "address": "284 Grant Avenue, Bridgetown, Oregon, 3111",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Howell Mccarty"
+      },
+      {
+        "id": 1,
+        "name": "Gabriela Michael"
+      },
+      {
+        "id": 2,
+        "name": "Courtney Peters"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Glover Reed",
+    "gender": "male",
+    "age": 39,
+    "eyeColor": "brown",
+    "company": "SNORUS",
+    "email": "gloverreed@snorus.com",
+    "phone": "+1 (927) 402-2953",
+    "address": "558 Coyle Street, Dargan, New Mexico, 2827",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sweeney Calderon"
+      },
+      {
+        "id": 1,
+        "name": "Cobb Kent"
+      },
+      {
+        "id": 2,
+        "name": "Tyson Orr"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Key Bernard",
+    "gender": "male",
+    "age": 25,
+    "eyeColor": "brown",
+    "company": "EVENTIX",
+    "email": "keybernard@eventix.com",
+    "phone": "+1 (808) 558-2283",
+    "address": "610 Alice Court, Mammoth, Kansas, 3655",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Amie Potts"
+      },
+      {
+        "id": 1,
+        "name": "Booth Riddle"
+      },
+      {
+        "id": 2,
+        "name": "Sallie Yang"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Graham Dickerson",
+    "gender": "male",
+    "age": 27,
+    "eyeColor": "blue",
+    "company": "BUZZNESS",
+    "email": "grahamdickerson@buzzness.com",
+    "phone": "+1 (871) 447-2031",
+    "address": "648 Elmwood Avenue, Unionville, New Jersey, 862",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Felicia Ramos"
+      },
+      {
+        "id": 1,
+        "name": "Jeannie Murphy"
+      },
+      {
+        "id": 2,
+        "name": "Melisa Rivers"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Green Manning",
+    "gender": "male",
+    "age": 28,
+    "eyeColor": "brown",
+    "company": "DEMINIMUM",
+    "email": "greenmanning@deminimum.com",
+    "phone": "+1 (811) 579-2812",
+    "address": "931 Lombardy Street, Collins, Delaware, 851",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stephens Collier"
+      },
+      {
+        "id": 1,
+        "name": "Alyson King"
+      },
+      {
+        "id": 2,
+        "name": "Hallie Hinton"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Watts Tate",
+    "gender": "male",
+    "age": 37,
+    "eyeColor": "blue",
+    "company": "TELLIFLY",
+    "email": "wattstate@tellifly.com",
+    "phone": "+1 (937) 468-3986",
+    "address": "474 Jackson Place, Richford, Virgin Islands, 7566",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mona Daniel"
+      },
+      {
+        "id": 1,
+        "name": "Sadie Rocha"
+      },
+      {
+        "id": 2,
+        "name": "Lessie Logan"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Hudson Pope",
+    "gender": "male",
+    "age": 29,
+    "eyeColor": "green",
+    "company": "PHARMEX",
+    "email": "hudsonpope@pharmex.com",
+    "phone": "+1 (965) 462-3234",
+    "address": "298 Madison Place, Vowinckel, West Virginia, 6308",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jana Wyatt"
+      },
+      {
+        "id": 1,
+        "name": "Wheeler Stanley"
+      },
+      {
+        "id": 2,
+        "name": "Mckee Camacho"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Donovan Simon",
+    "gender": "male",
+    "age": 40,
+    "eyeColor": "blue",
+    "company": "EVENTAGE",
+    "email": "donovansimon@eventage.com",
+    "phone": "+1 (816) 446-2819",
+    "address": "624 Sapphire Street, Lavalette, Nebraska, 8083",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hurst Farley"
+      },
+      {
+        "id": 1,
+        "name": "Villarreal Landry"
+      },
+      {
+        "id": 2,
+        "name": "Marjorie Brewer"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Schmidt Mcpherson",
+    "gender": "male",
+    "age": 24,
+    "eyeColor": "brown",
+    "company": "GEEKOLOGY",
+    "email": "schmidtmcpherson@geekology.com",
+    "phone": "+1 (929) 545-2070",
+    "address": "293 Auburn Place, Hayden, Federated States Of Micronesia, 5507",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ivy Hendrix"
+      },
+      {
+        "id": 1,
+        "name": "Pratt Williamson"
+      },
+      {
+        "id": 2,
+        "name": "Audra Terrell"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Joanna Whitfield",
+    "gender": "female",
+    "age": 30,
+    "eyeColor": "green",
+    "company": "ZYTREX",
+    "email": "joannawhitfield@zytrex.com",
+    "phone": "+1 (852) 559-2908",
+    "address": "123 Harbor Court, Longbranch, Louisiana, 125",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Geneva Carpenter"
+      },
+      {
+        "id": 1,
+        "name": "Susan Craig"
+      },
+      {
+        "id": 2,
+        "name": "Maricela Wade"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Bright Reid",
+    "gender": "male",
+    "age": 40,
+    "eyeColor": "brown",
+    "company": "COFINE",
+    "email": "brightreid@cofine.com",
+    "phone": "+1 (958) 491-3767",
+    "address": "295 Keap Street, Masthope, Guam, 5629",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Farley Malone"
+      },
+      {
+        "id": 1,
+        "name": "Rios Barrett"
+      },
+      {
+        "id": 2,
+        "name": "Winnie Savage"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Anastasia Dennis",
+    "gender": "female",
+    "age": 20,
+    "eyeColor": "brown",
+    "company": "COGENTRY",
+    "email": "anastasiadennis@cogentry.com",
+    "phone": "+1 (980) 571-3254",
+    "address": "338 Wolcott Street, Dola, Colorado, 9998",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Walker Sexton"
+      },
+      {
+        "id": 1,
+        "name": "Brooke Pickett"
+      },
+      {
+        "id": 2,
+        "name": "Emilia Garcia"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Penelope Knowles",
+    "gender": "female",
+    "age": 25,
+    "eyeColor": "green",
+    "company": "GEEKNET",
+    "email": "penelopeknowles@geeknet.com",
+    "phone": "+1 (913) 455-2690",
+    "address": "530 Bogart Street, Wyoming, North Carolina, 4114",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Pollard Montgomery"
+      },
+      {
+        "id": 1,
+        "name": "Pope Nolan"
+      },
+      {
+        "id": 2,
+        "name": "Burgess Whitehead"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Melissa Mcdowell",
+    "gender": "female",
+    "age": 31,
+    "eyeColor": "green",
+    "company": "BESTO",
+    "email": "melissamcdowell@besto.com",
+    "phone": "+1 (807) 522-2058",
+    "address": "399 Elliott Place, Malo, North Dakota, 8267",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rutledge Acosta"
+      },
+      {
+        "id": 1,
+        "name": "Gale Washington"
+      },
+      {
+        "id": 2,
+        "name": "Hooper Morrow"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Lang Hester",
+    "gender": "male",
+    "age": 28,
+    "eyeColor": "brown",
+    "company": "EBIDCO",
+    "email": "langhester@ebidco.com",
+    "phone": "+1 (817) 558-2231",
+    "address": "999 Oriental Boulevard, Weedville, Vermont, 4382",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Vonda Stevens"
+      },
+      {
+        "id": 1,
+        "name": "Wolf Alvarez"
+      },
+      {
+        "id": 2,
+        "name": "Hawkins Ball"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Harper Gray",
+    "gender": "male",
+    "age": 36,
+    "eyeColor": "green",
+    "company": "XIXAN",
+    "email": "harpergray@xixan.com",
+    "phone": "+1 (844) 576-3691",
+    "address": "301 Metrotech Courtr, Knowlton, Missouri, 6283",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Leach Ray"
+      },
+      {
+        "id": 1,
+        "name": "Best Weaver"
+      },
+      {
+        "id": 2,
+        "name": "Pate Callahan"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Bridgette Parker",
+    "gender": "female",
+    "age": 26,
+    "eyeColor": "green",
+    "company": "FLUMBO",
+    "email": "bridgetteparker@flumbo.com",
+    "phone": "+1 (940) 452-3809",
+    "address": "405 Bayview Avenue, Kennedyville, Michigan, 4312",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wanda Berg"
+      },
+      {
+        "id": 1,
+        "name": "Park Strong"
+      },
+      {
+        "id": 2,
+        "name": "Esmeralda Castaneda"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Berry Glover",
+    "gender": "male",
+    "age": 38,
+    "eyeColor": "green",
+    "company": "BUZZOPIA",
+    "email": "berryglover@buzzopia.com",
+    "phone": "+1 (896) 480-2278",
+    "address": "885 Hill Street, Fairhaven, District Of Columbia, 8711",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dotson Mays"
+      },
+      {
+        "id": 1,
+        "name": "Isabelle Adkins"
+      },
+      {
+        "id": 2,
+        "name": "Conley Rodgers"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Gomez Dejesus",
+    "gender": "male",
+    "age": 28,
+    "eyeColor": "blue",
+    "company": "CENTICE",
+    "email": "gomezdejesus@centice.com",
+    "phone": "+1 (806) 476-3007",
+    "address": "780 Devon Avenue, Brandywine, Indiana, 2207",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lourdes Morrison"
+      },
+      {
+        "id": 1,
+        "name": "Mae Jacobs"
+      },
+      {
+        "id": 2,
+        "name": "Ladonna Bradshaw"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Alston Cooley",
+    "gender": "male",
+    "age": 26,
+    "eyeColor": "green",
+    "company": "PHORMULA",
+    "email": "alstoncooley@phormula.com",
+    "phone": "+1 (859) 554-3262",
+    "address": "346 Seba Avenue, Stevens, Wyoming, 5801",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcneil Newman"
+      },
+      {
+        "id": 1,
+        "name": "Osborne Hodge"
+      },
+      {
+        "id": 2,
+        "name": "Desiree Juarez"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Obrien Stafford",
+    "gender": "male",
+    "age": 23,
+    "eyeColor": "blue",
+    "company": "ROCKABYE",
+    "email": "obrienstafford@rockabye.com",
+    "phone": "+1 (870) 466-2982",
+    "address": "314 Argyle Road, Rockhill, Florida, 2575",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Moran Higgins"
+      },
+      {
+        "id": 1,
+        "name": "Reid Chavez"
+      },
+      {
+        "id": 2,
+        "name": "Chase Schwartz"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Dean Ellison",
+    "gender": "male",
+    "age": 31,
+    "eyeColor": "blue",
+    "company": "MUSANPOLY",
+    "email": "deanellison@musanpoly.com",
+    "phone": "+1 (888) 438-3715",
+    "address": "918 Rapelye Street, Crenshaw, Hawaii, 9793",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jeanine Schmidt"
+      },
+      {
+        "id": 1,
+        "name": "Concetta Kinney"
+      },
+      {
+        "id": 2,
+        "name": "Ramona Mercer"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Lola Hendricks",
+    "gender": "female",
+    "age": 22,
+    "eyeColor": "blue",
+    "company": "OCEANICA",
+    "email": "lolahendricks@oceanica.com",
+    "phone": "+1 (860) 578-3712",
+    "address": "996 Aviation Road, Clay, Virginia, 3820",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kemp Roberts"
+      },
+      {
+        "id": 1,
+        "name": "Wilson Wall"
+      },
+      {
+        "id": 2,
+        "name": "Lydia Stout"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Winifred West",
+    "gender": "female",
+    "age": 31,
+    "eyeColor": "blue",
+    "company": "GEOFORM",
+    "email": "winifredwest@geoform.com",
+    "phone": "+1 (864) 497-3546",
+    "address": "194 Lafayette Avenue, Edenburg, Iowa, 7335",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lorene Gould"
+      },
+      {
+        "id": 1,
+        "name": "Kris Berger"
+      },
+      {
+        "id": 2,
+        "name": "Guerra Morris"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Perry Wolfe",
+    "gender": "male",
+    "age": 32,
+    "eyeColor": "green",
+    "company": "TALKALOT",
+    "email": "perrywolfe@talkalot.com",
+    "phone": "+1 (833) 507-3902",
+    "address": "238 Dodworth Street, Grimsley, Illinois, 7509",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bond Burks"
+      },
+      {
+        "id": 1,
+        "name": "Helen Copeland"
+      },
+      {
+        "id": 2,
+        "name": "Jayne Bean"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Bettye Glenn",
+    "gender": "female",
+    "age": 29,
+    "eyeColor": "brown",
+    "company": "GREEKER",
+    "email": "bettyeglenn@greeker.com",
+    "phone": "+1 (815) 557-2997",
+    "address": "113 Herkimer Court, Tilden, Nevada, 1374",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Roberson Salas"
+      },
+      {
+        "id": 1,
+        "name": "Stark Mcgowan"
+      },
+      {
+        "id": 2,
+        "name": "Thornton Bradley"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Weiss Santana",
+    "gender": "male",
+    "age": 35,
+    "eyeColor": "blue",
+    "company": "REPETWIRE",
+    "email": "weisssantana@repetwire.com",
+    "phone": "+1 (878) 473-3685",
+    "address": "157 Cove Lane, Titanic, Arizona, 5916",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Corine Norman"
+      },
+      {
+        "id": 1,
+        "name": "Rich Bird"
+      },
+      {
+        "id": 2,
+        "name": "Leticia Chandler"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "name": "Connie Poole",
+    "gender": "female",
+    "age": 32,
+    "eyeColor": "blue",
+    "company": "MARKETOID",
+    "email": "conniepoole@marketoid.com",
+    "phone": "+1 (966) 477-2627",
+    "address": "263 Montgomery Street, Sheatown, Alabama, 4916",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Callahan Kirby"
+      },
+      {
+        "id": 1,
+        "name": "Dickson Mullen"
+      },
+      {
+        "id": 2,
+        "name": "Nadine Fulton"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Potter Robles",
+    "gender": "male",
+    "age": 26,
+    "eyeColor": "brown",
+    "company": "POLARAX",
+    "email": "potterrobles@polarax.com",
+    "phone": "+1 (949) 471-3766",
+    "address": "333 Lawton Street, Nogal, Oklahoma, 6184",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cohen Fuller"
+      },
+      {
+        "id": 1,
+        "name": "Angelica Kline"
+      },
+      {
+        "id": 2,
+        "name": "Stacey Richard"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Bertie Huber",
+    "gender": "female",
+    "age": 30,
+    "eyeColor": "blue",
+    "company": "STEELTAB",
+    "email": "bertiehuber@steeltab.com",
+    "phone": "+1 (898) 447-2920",
+    "address": "598 Hunterfly Place, Finderne, South Carolina, 2832",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Phelps Briggs"
+      },
+      {
+        "id": 1,
+        "name": "Parrish Roach"
+      },
+      {
+        "id": 2,
+        "name": "Shauna Horn"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "April Bell",
+    "gender": "female",
+    "age": 37,
+    "eyeColor": "green",
+    "company": "SONGLINES",
+    "email": "aprilbell@songlines.com",
+    "phone": "+1 (896) 539-3068",
+    "address": "991 Highland Place, Juntura, Pennsylvania, 4830",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elsa Meadows"
+      },
+      {
+        "id": 1,
+        "name": "Wagner Morales"
+      },
+      {
+        "id": 2,
+        "name": "Bessie Holcomb"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "name": "Delacruz Riggs",
+    "gender": "male",
+    "age": 24,
+    "eyeColor": "brown",
+    "company": "NUTRALAB",
+    "email": "delacruzriggs@nutralab.com",
+    "phone": "+1 (897) 401-2995",
+    "address": "752 Hoyt Street, Connerton, Connecticut, 3666",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Helena Bonner"
+      },
+      {
+        "id": 1,
+        "name": "Luella Zamora"
+      },
+      {
+        "id": 2,
+        "name": "Betty Chang"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "name": "Cote Middleton",
+    "gender": "male",
+    "age": 35,
+    "eyeColor": "green",
+    "company": "QOT",
+    "email": "cotemiddleton@qot.com",
+    "phone": "+1 (862) 546-2357",
+    "address": "678 Jewel Street, Darlington, Palau, 8402",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Burns Frazier"
+      },
+      {
+        "id": 1,
+        "name": "Strickland Ortega"
+      },
+      {
+        "id": 2,
+        "name": "Casey Barnes"
+      }
+    ],
+    "favoriteFruit": "banana"
+  }
+]
