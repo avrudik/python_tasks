@@ -1,10 +1,9 @@
 from selenium import webdriver
 from lxml.html import fromstring
-from time import sleep
 
 
 def get_driver():
-    agent = webdriver.Firefox(executable_path='geckodriver_32.exe')
+    agent = webdriver.Firefox(executable_path='geckodriver_64.exe')
 
     return agent
 
@@ -22,12 +21,15 @@ def get_table_pages(agent, url):
 
 
 def get_data(agent, link, pages):
-    headers = []
+    headings = []
     for page in pages:
         full_link = link + page
         source_code = get_source_code(agent, full_link)
-        headers.append(source_code.xpath('//thead/tr/th/a/text()'))
-    return headers
+        source = source_code.xpath('//thead/tr/th/a/text()')
+        for i in source:
+            if i not in headings:
+                headings.append(i)
+    return headings
 
 
 if __name__ == '__main__':
@@ -38,8 +40,10 @@ if __name__ == '__main__':
         'http://kaf65.mephi.ru/tutorial/datasource_third/'
     ]
 
+    url_headings = []
+
     for url in urls:
-        print(get_data(driver, url, get_table_pages(driver, url)))
+        url_headings.append(get_data(driver, url, get_table_pages(driver, url)))
 
-
+    print(url_headings)
     driver.close()
