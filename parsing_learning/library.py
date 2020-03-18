@@ -44,11 +44,3 @@ def get_data(agent, link, pages, xpath):
 
 if __name__ == '__main__':
     pass
-    urls_indices = [
-        '_first',
-        '_second',
-        '_third'
-    ]
-    for i in range(3):
-        wb = openpyxl.Workbook()
-        wb.save('data' + urls_indices[i] + '.xlsx')
