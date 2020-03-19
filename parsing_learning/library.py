@@ -1,10 +1,10 @@
-from selenium import webdriver
-from lxml.html import fromstring
+import selenium
+import lxml
 import openpyxl
 
 
 def driver():
-    agent = webdriver.Firefox(executable_path='geckodriver_64.exe')
+    agent = selenium.webdriver.Firefox(executable_path='geckodriver_64.exe')
 
     return agent
 
@@ -12,7 +12,7 @@ def driver():
 def get_source_code(agent, url_link):
     agent.get(url_link)
 
-    return fromstring(agent.page_source)
+    return lxml.html.fromstring(agent.page_source)
 
 
 def get_table_pages(agent, url_link):
